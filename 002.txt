@@ -398,7 +398,8 @@ Continue from [./001.txt](./001.txt)
 古老的人类， 伟大的读者， 亲爱的朋友， 如果你读到这里，
 我无法在赞美你的同时恭喜你， 你也许不是软件工程师，
 却遇到了同样的问题： 无法改写的代码。
-它常常使最温和的人产生暴力倾向。
+它常常使最温和的人产生暴力倾向，
+然而最终也要吃下这样的苦果。
 
     [how much difference](https://www.icr.org/article/7892)
 
@@ -596,11 +597,13 @@ The last trapper，
 
 而猩猩兵法或者鸡巴兵法的出现， 显然说明这一国家中的人类， 
 已经完全被猩猩捕捉。 这样的国家， 有许多简单的判断方法，
-比如， 满足下例任何条件之一： 
+比如， 满足下例任何条件之一。 这个列表可以很长， 
+任何一条的满足就应考虑逃亡、转移、隐藏或者对抗猩得的企图： 
 
   - 合法的人体器官切割
   - 男人被切去鸡巴
   - 合法的人体伤害
+  - 存在酷刑
   - 没有人身安全
   - 没有言论自由
   - 谎言必须存在
@@ -614,6 +617,7 @@ The last trapper，
   - 货币之外， 大量形式的购物卷存在
   - 拒绝同其它国家的分享
   - 军人的形像过于阳光， 这与军人必须屠杀的本质矛盾
+  - 反战思想受到肉体迫害
   - 官员的面孔完全虚伪
   - 大多数人愿意跪在统治者身旁
   - 统治者拥有杀人的权利， 并且一定要维护这样的权利
@@ -621,14 +625,20 @@ The last trapper，
   - 统治者的生活成本数倍的超越平均水平
   - 统治者的道德定义普遍的与它们的行为矛盾
   - 统治者强制文字的使用方法， 明显的区别于人类文字理论
+  - 无法理解什么是道德, 统治者定义的道德令人发笑
   - 肮脏的环境和伟大的领袖同时出现
-  - 无法理解什么是道德
+  - 教育成为欺骗， 或者学校成为妓院
+  - 学问不允许改变， 或者科学无法自我纠错
+  - 医生、教师普遍失去道德约束
+  - 囚犯无法为自己辩护
+  - 粗暴对待食欲性欲， 在学术和教育中缺失最基本的人性
+  - 哲学无法共存， 以消灭肉体消灭学说。 
+  - 唯心唯物无法共存
 
 这样的简单判断应该还有很多， 
-请原谅我的不全面。 
-这些都是单一判断条件，
-其中任何一个条件成立，
-就应当判断这个国家的人类完全沦陷于猩猩手中。
+请原谅列表太长却仍然不全面。 
+都是单一的判断条件， 其中任何一个条件成立，
+就应当判断这个国家的人类可能完全沦陷于猩猩手中。
 此时， 你的误判， 或者幻想的安全感， 代价就可能是生命。
 此时， 《逃亡论》远比《进化论》重要。
 
@@ -2973,6 +2983,11 @@ Do it to Julie！ Do it to Julie!
 好了， 继续找陷阱。
 
 
+    [goodogood repository](repositor://github.com/goodagood/gg.git)
+    [goodogood prototype](http://goodogood.me)
+    
+
+
 ## 铃铛陷阱
 
 
@@ -3966,6 +3981,9 @@ https://zh.wikipedia.org/wiki/馬來亞海戰
     系统其它方面交给聪明人，
     请注意版权带有不要版权的递归式约束。
 
+    [goodogood repository](repositor://github.com/goodagood/gg.git)
+    [goodogood prototype](http://goodogood.me)
+
 好吧， 言归正传， 战争的原因已经太荒唐， 
 请问二战后为嘛不打？ 二战后不是更会造武器吗？ 
 
@@ -4731,7 +4749,10 @@ goodogood 是用圈圈联结两个 good.
 一起来写吧， 这些代码.....
 除了代码的编写只能交给如我一般的傻瓜们之外， 
 这个项目的其它部分几乎是人都可以参加，
-原理就是我知道你知道我知道.....
+原理就是我知道你知道我知道， 确实非常简单。
+
+    [goodogood repository](repositor://github.com/goodagood/gg.git)
+    [goodogood prototype](http://goodogood.me)
 
 谢谢你阅读广告，
 你已经知道这些乱七八糟的东西的版权了吧。
@@ -4771,6 +4792,17 @@ goodogood 是用圈圈联结两个 good.
 The author might be out, 
 no one want big brother's cat.  
 
+
+# end
+
+Repo on github is more suitable to be cloned, 
+by "git clone ..." you can check out the repo, 
+and no need to ask web page renderring. Only
+2 files contain the text: 001.txt and 002.txt
+
+To clone the repository:
+
+    git clone https://github.com/chimpsland/story.git
 
 
 
