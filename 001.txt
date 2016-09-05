@@ -12,77 +12,18 @@ If a stupid get a bit, it's a bit stupid :-)
 之后的五十年， 人的定义， 
 被改变， 再也无法回到起点。
 
-作为游戏， 或者作为学术， 
-我们都将去寻找人， 赤裸的人。
+人类， 如果只有“进化”，  就少了一半的乐趣。
+向前看， 是人类进化。 向后看， 就是丑陋的猩猩。
+作为游戏， 或者作为学术， 我们都将去寻找人， 赤裸的人。
+也要去找猩猩， 人与猩猩互补， 在镜面对称中， 形成几何美学。
 
-同时， 去找猩猩， 作为几何对称的美学。
-因为只有“进化”的话，  就少了一半的乐趣。
+美丽的女人， 古德尔， 一位英国美女， 
+将给我们一个起点， 进入一个游戏， 或者一个迷宫。
 
-如果有任意的维度， 
-能不能在一个点内提供足够的自由？
-做为一个傻瓜， 我， 一定是搞错了， 
-点应该做为点， 线才是数据集...
-
-那么大爆炸从哪一点开始？
-
-如果宇宙可以来自一个几何点， 
-那么上帝可以存在于一个点内吗？
-
-从不同的点， 连接一条线。
-可能是一条曲线， 这是寻找线索的过程。
-如果点为数据， 可以有任意维度， 线可能代表规律。
-
-从1887年测量电磁波， 到2016年测量引力波， 
-我们知道， 在称之为未来的同样空间内， 
-也许是无尽的荣光， 也可能会无法想像。
-
-在历史提供的画面中， 在人们表演出的无数场景之间， 
-尝试连接一些线， 如果连错了， 也请原谅。
-这只是一个傻瓜在做连图游戏。
-
-也许猩猩站在讲台上会很尴尬，
-也许它西装领带也会获得认可。
-
-一位女学者深入的观察猩猩群落，
-无法分辨她观察的是猩猩还是人类，
-历史提供的佐证说明它可能是最强的进化者，
-科学技术、文化宗教的演化也许会迫使人类
-再一次认真的对比自己和猩猩。
-
-百万年的进化和文字智慧是否有必要？
-
-但是不管怎么样，
-是天堂还是地狱，
 从猩猩开始的游戏， 
 如果要有名字的话， 
 就叫猩猩国度。
 
-
-英文简介
-
-# Chimp's Land
-
-A stupid start to trying to find a group of prehistory
-humans, groups of chimps following them, the homo's footprints
-lost in time.  Two cats was running to catch the stupid,
-one white, one black.  The groups of homo sapiens was
-caught by chimps and slaved in countries, after long long
-running.  Secretly, they started to build a tower of
-civilization to escape the chimps.  And the cats followed
-the stupid into the tower.  Things is chaos by all time.
-
-The story firstly written in Chinese,
-the license
-would be GPL, MIT, Apache or any compatible ones, so anyone
-can use it as fit, if author's opions cause no trouble to
-any one.
-
-(The structure is still under cuttings, 0821.
- Keep In String, Stories. 0831)
-
-
-(0821, 远末完工， 结构尚在切割， 时间已经所剩无几。
- 0831, 保持简单的线索。)
 
 # 古德尔 {{{1
 
@@ -5915,6 +5856,32 @@ To clone the repository:
 To be continue by [./002.txt](https://github.com/chimpsland/story/blob/master/002.txt)
 
 
+
+    英文简介
+
+    # Chimp's Land
+
+    A stupid start to trying to find a group of prehistory
+    humans, groups of chimps following them, the homo's footprints
+    lost in time.  Two cats was running to catch the stupid,
+    one white, one black.  The groups of homo sapiens was
+    caught by chimps and slaved in countries, after long long
+    running.  Secretly, they started to build a tower of
+    civilization to escape the chimps.  And the cats followed
+    the stupid into the tower.  Things is chaos by all time.
+
+    The story firstly written in Chinese,
+    the license
+    would be GPL, MIT, Apache or any compatible ones, so anyone
+    can use it as fit, if author's opions cause no trouble to
+    any one.
+
+    (The structure is still under cuttings, 0821.
+     Keep In String, Stories. 0831)
+
+
+    (0821, 远末完工， 结构尚在切割， 时间已经所剩无几。
+     0831, 保持简单的线索。)
 
 
 <!--
