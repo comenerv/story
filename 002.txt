@@ -4016,13 +4016,13 @@ https://zh.wikipedia.org/wiki/馬來亞海戰
     然而这样做完全不符合傻瓜对谦虚的定义， 
     因此以谦虚为名义， 请你加入， 
     代码交给和我一样的傻瓜， 
-    系统其它方面交给聪明人，
-    请注意版权带有不要版权的递归式约束。
+    系统其它方面交给聪明人， 请注意，
+    版权带有不要版权的递归式约束。
 
     猩猩国度， 是故事。
     迷雾大海， 是代码。
-    goodogood.me, 
-    是系统原型， 在启动在崩溃、需要修正和加速。
+    goodogood.me, 是系统原型，
+    在启动在崩溃、需要修正和加速。
 
     [the story](https://github.com/chimpsland/story)
     [goodogood repository](repositor://github.com/goodagood/gg.git)
