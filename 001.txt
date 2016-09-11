@@ -393,11 +393,25 @@ it's a bit stupid. :-)
     故将通于九变之地利者，知用兵矣...
     故其疾如风，其徐如林，侵掠如火...
 
-
-
 也许是错觉中的兵法？
 
-这叫猩猩的兵法? 古德尔不懂中国兵法， 她说：
+这里是古德尔的记录：
+
+    多年来我一直在挣扎着接受这个新知识。
+    当我在夜里醒来时，恐怖的画面时常在我脑海中
+    突然浮现 -- 撒旦（一只黑猩猩）将他的手窝成杯状
+    置于斯尼夫的下巴下面，以承接从斯尼夫的伤口中
+    涌出的鲜血来饮用；平日颇为和善的老鲁道夫
+    起身将一块四磅重的巨石砸向戈迪俯卧的身躯；
+    约米奥从戴的大腿处撕下一条皮肤；
+    费甘，一遍又一遍地追逐并击打着歌利亚孱弱而
+    不断颤抖的身体，而后者正是前者的童年英雄之一
+    ......
+
+    [Chimp War](https://en.wikipedia.org/wiki/Gombe_Chimpanzee_War)
+
+
+这叫猩猩的兵法? 古德尔不懂中国兵法， 她说
 这一次我们看到了猩猩间的地区性冲突行为...
 
 而我相信《孙子兵法》是被一群黑猩猩表演了。
@@ -6048,6 +6062,7 @@ To be continue by [./002.txt](https://github.com/chimpsland/story/blob/master/00
 
     # Chimp's Land
 
+    When Jane Goodall's study of chimpanzee got known.
     A stupid start to trying to find a group of prehistory
     humans, groups of chimps following them, the homo's footprints
     lost in time.  Two cats was running to catch the stupid,
@@ -6058,10 +6073,10 @@ To be continue by [./002.txt](https://github.com/chimpsland/story/blob/master/00
     the stupid into the tower.  Things is chaos by all time.
 
     The story firstly written in Chinese,
-    the license
-    would be GPL, MIT, Apache or any compatible ones, so anyone
-    can use it as fit, if author's opions cause no trouble to
-    any one.
+
+    the license would be GPL, MIT, Apache or any compatible
+    ones, so anyone can use it as fit, if author's opions
+    cause no trouble to any one.
 
     (The structure is still under cuttings, 0821.
      Keep In String, Stories. 0831)
