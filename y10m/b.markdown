@@ -1,9 +1,3 @@
-Title: cn 13.7 billion years 
-{{{
-Author: Andrew
-Date: 2017
-Version: 2.15
-}}}
 
 
 # 137亿，宇宙起源，恒星造人，太阳系，轰炸地球 
@@ -5351,10 +5345,13 @@ Max Planck (1858-1947)
 一切就已经被粉碎了。
 战场上，士兵的寿命只有一周不到，他们只敢冲锋，
 因为军队后方站着的都是魔鬼，历史证明了这一点。
-他们爬出污水坑进攻，跳出弹坑冲锋，对着机枪和坦克爬
-行，用行军铲把敌人脑袋劈开，最后大家都变成尸体堆在城市
-废墟里，被西伯利亚的寒冬冻成冰棍，连老鼠都咬不动，
+他们爬出污水坑进攻，跳出弹坑冲锋，向着另一片废墟冲锋，
+对着机枪和坦克爬行，用行军铲把敌人脑袋劈开，
+最后大家都变成尸体堆在城市废墟里，
+被西伯利亚的寒冬冻成冰棍，连老鼠都咬不动，
 在春天来临后腐化发出臭气。
+
+优秀的军人被魔鬼驱使，历史也证明了这一件事实。
 
 41年12月7日，日本海军偷袭珍珠港，这也是战史奇迹。
 
@@ -6925,9 +6922,11 @@ The eye of providence.
 
 全部的世界，可以放在你手心里。
 
+}}}
 
 
 # todo
+{{{
 
 简化!
 There are wrong ideas and conclusions, 
@@ -6937,6 +6936,12 @@ try to remove my thoughts and keep only facts.
 [Source](https://github.com/goodagood/story/blob/master/y10m/b.markdown)
 
 
+Title: cn 13.7 billion years 
+Author: Andrew
+Date: 2017
+Version: 2.15
+
 <!-- 
- vim: set tw=60 fdm=marker ft=markdown nowrap ignorecase:
+ vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
  -->
+}}}
