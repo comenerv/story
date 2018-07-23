@@ -27,7 +27,7 @@
 
 有世间繁华，有人间风雨。
 
-这粒沙子是哪里来的？
+请问，这粒沙子是哪里来的？
 
 物理学中大爆炸的理论也许可以解释这个问题，
 在此之前的历史中，在科学出现的年代之前，
@@ -7042,7 +7042,7 @@ try to remove my thoughts and keep only facts.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017
-Version: 2.17
+Version: 2.18
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
