@@ -6699,7 +6699,7 @@ Linus Torvalds 尝试将他的个人项目发布，后来成为开
 统计数字说明，避孕产品无法阻止做爱结果的出现。
 
 做爱的结果常常是另一种必须延续的爱，
-幼小的生命中包含自然的生长力，
+幼小的生命中包含自然的生长力，分享生命的华彩乐章，
 这是上帝的安排。父母为孩子提供了食物，
 他们却想要点心；父母为孩子提供了衣物，
 他们却想要玩具。得失的感觉总在边缘处更强烈，
@@ -7316,8 +7316,8 @@ The eye of providence.
 有密林深壑星河入海，有丝丝血脉消散无影，
 也有人潮滚滚如流，无穷的面孔浮在空中阻断道路，
 迂回连接处处陷阱，
-有人头涌动，
-也有无尽的黑暗四处弥漫，
+人头涌动时，
+有无尽的黑暗四处弥漫，
 有毒蛇的后代爬行。
 
 不时有神坛悄然出现，
@@ -7381,7 +7381,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.38
+Version: 2.39
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
