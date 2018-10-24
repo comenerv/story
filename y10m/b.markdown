@@ -6716,8 +6716,9 @@ Linus Torvalds 尝试将他的个人项目发布，后来成为开
 也是上帝的安排，并非贪得无厌，而是对人性的磨练。
 父母尚未通过试练，孩子们就再次开始挑战他们。
 
-1994年，曼德拉当选为黑人首位南非总统，
-南非结束了种族隔离。
+一代人有一代的人追寻与困惑，一条条代沟里刻画着关怀与反叛。
+
+1994年，曼德拉当选为黑人首位南非总统，南非结束了种族隔离。
 
 1996年，斯坦福大学两位学生开始实验搜索算法，
 拉里，谢尔盖，
@@ -7460,7 +7461,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.42
+Version: 2.43
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
