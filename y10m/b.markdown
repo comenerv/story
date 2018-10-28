@@ -5763,9 +5763,9 @@ GDP就是金字塔内每年的财富总量，
 新中国屠人无数，史无前例。
 
 中国如果还有文字史，也早已经被浸红浸透了。
-宋亡明灭外族入关时，屠杀惨烈，其缘由可以灭国之战来解释，
-可以蛮夷屠华夏来解释。共党得天下之后，
-杀人杀到蒙元满清也难于比肩，真可谓是无可解释了。
+宋亡明灭的时候外族入关，屠杀惨烈，其缘由可以灭国之战来解释，
+可以蛮夷屠华夏来解释。共产党得天下之后，
+杀人杀到蒙元满清也难于相比，真可谓是无可解释、难以理喻了。
 
 阶级斗争中亲友相残，革命无罪，
 造反有理。批斗现场，说话的人无法独立思考，
@@ -7534,7 +7534,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.49
+Version: 2.50
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
