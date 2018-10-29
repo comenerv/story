@@ -7445,6 +7445,11 @@ The eye of providence.
 宗教同样可能是不科学的，
 因为科学和宗教相比仍然是个小孩子 。
 
+曾经，新教徒要求孩子们自己学会阅读圣经。今天，也许同样的行为仍然值
+得推荐，在任何一个人投入任何一位教皇的怀抱之前，应该教会他自己阅读：
+猩猩的历史、人类的历史、宇宙的历史，请不要仅仅阅读文字史，
+请自己去寻找上帝的身影。
+
 这时候问一些幼稚的问题：上帝是否具有人类的感情？
 人类的感情是否过于渺小，缺少重量？
 
@@ -7568,7 +7573,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.51
+Version: 2.52
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
