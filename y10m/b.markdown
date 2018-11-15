@@ -7181,7 +7181,7 @@ Clay Mathematics Institute, Millenium Prize Problem.
 
 服从的，岁月静好，反抗的，神经错乱。
 
-十亿头猪和十亿难民，这个世界如何选择？
+十亿头猪或者十亿难民，这个世界如何选择？
 
 上帝保佑谁呢？
 
@@ -7753,7 +7753,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.61
+Version: 2.62
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
