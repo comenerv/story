@@ -6898,8 +6898,10 @@ YY，而是可以从网络中得到资讯，这让历史失去了参照。
 
 在没有言论自由的世界里有一个必然的现象就是这个世界欺骗了你。
 每一个人的每一次成长都只是又一次发现这个简单的事实：
-这个世界又欺骗了你。民主、法制、富有、强大、现代化...
+这个世界又欺骗了你。民主、法制、富有、强大、文明、现代化...
 每一个口号每一次都是这个世界都又欺骗了你。
+
+没有言论自由，一切都是谎言。
 
 
 }}}
@@ -8478,7 +8480,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.72
+Version: 2.73
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
