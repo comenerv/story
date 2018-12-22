@@ -8014,9 +8014,14 @@ Bishop in Cathedral, Nuncio, Cardinals, Pope
 
 这就是言论自由和宗教自由，简单，但是现实中不存在。
 
+教皇可以杀人吗？
+
+现在，他没有这个权力。但是，教会和这个问题的故事可以写一部厚厚的书，
+厚到没有人可以扛起来的那么厚重的书。
+
 138亿年几乎就要过去了，1000多亿人也死掉了。未来还是不断的过来，
 然而我们不打算预测未来，这样的工作应该交给巫师去做，
-我们继续去找古老的故事。
+我们继续去寻找古老的故事。
 
 传说很久很久以前有一位老爷爷，
 他有一所老房子叫做审判所，
@@ -8089,7 +8094,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.78
+Version: 2.79
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
