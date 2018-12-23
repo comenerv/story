@@ -8008,10 +8008,13 @@ Clay Mathematics Institute, Millenium Prize Problem.
 Cathalic Philosophy, Master of Divinity, Priest in Church, 
 Bishop in Cathedral, Nuncio, Cardinals, Pope
 
-在历史上的265任教皇中，有的如天使降临人间，也有骗子、通奸者、鸡奸犯、
-杀人犯、迫害狂、喝人血的怪物，无奇不有。
+在历史上的265任教皇中，有的如天使降临，有的如恶魔现世， 有骗子、
+通奸者、鸡奸犯、杀人犯、迫害狂、喝人血的怪物和黑暗裁判所的主子... 
+最强的恶魔可能不是杀人最多的，而是迫使文字系统欺骗的。
 
-不管谁来做教皇，他都必须阅读圣经。不管是不是天主教徒，人们也都可以
+当人们无法说实话的时候，迷宫里就只剩下通往地狱的道路。
+
+可是不管谁来做教皇，他都必须阅读圣经。不管是不是天主教徒，人们也都可以
 自己阅读圣经并且得到自己的理解。如果不喜欢这些古人写在圣经中的故事，
 你可以说：我不喜欢。 
 
@@ -8063,8 +8066,7 @@ Bishop in Cathedral, Nuncio, Cardinals, Pope
 
 在祈祷时，可以忘记恐惧，在忏悔时可能得到饶恕。
 
-这种方法是有效的。
-至少二千年前，就听到先知们的声音：
+至少二千年前，就听到先知们说：
 
   忏悔吧，因为天国在手。
 
@@ -8075,7 +8077,7 @@ Bishop in Cathedral, Nuncio, Cardinals, Pope
 迷宫里，曾经的欲望成为角落里的蛛网，残破了，
 热血在尘埃中褪色。
 
-在一粒沙尘中，隐藏了一个世界，全部的世界，
+在一粒沙尘中，隐藏了一个世界，全部的来源，
 全部的时光，全部的生命和死亡。
 
 在这一粒沙尘中，神和人一样的卑微。
@@ -8099,7 +8101,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.80
+Version: 2.81
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
