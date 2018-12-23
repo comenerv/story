@@ -8078,7 +8078,7 @@ Bishop in Cathedral, Nuncio, Cardinals, Pope
 迷宫里，曾经的欲望成为角落里的蛛网，残破了，
 热血在尘埃中褪色。
 
-在一粒沙尘中，隐藏了一个世界，隐藏了全部的来源，
+这一切也许只是一粒沙尘，其中隐藏了一个世界，隐藏了全部的来源，
 全部的时光，全部的财富，有所有的热望与幻想，有全部的生命和死亡。
 
 在这一粒沙尘中，神和人一样的卑微。
@@ -8102,7 +8102,7 @@ But it turned into chaos when I want to simplify it.
 Title: cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.81
+Version: 2.82
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
