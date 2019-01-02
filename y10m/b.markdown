@@ -8019,7 +8019,8 @@ Cameron 因此辞职了。英国从来都是西欧的国家，也从来都是欧
 让他人流血的方法已经被几个朝代证明为无效，
 秦汉唐宋、元明清共都证明了流别人的血，不论是祭司兽神，
 还是屠宰这个畜生，都无效。只有宽恕它，没有请求的宽恕，
-像个傻婊在宽恕强奸犯。
+像个傻婊在宽恕强奸犯。然后就是不断的忍耐，要有无穷的耐心，
+野兽获得人性的过程可以和人类进化的过程一样伟大。
 
 做傻婊也比做畜生强，但是不要代表别人来宽恕，
 代表已经成为贬义词，而傻婊是用傻来形容的。
@@ -8341,7 +8342,7 @@ But it turned into chaos when I want to simplify it.
 Title: a grain of sand, cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.86
+Version: 2.87
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
