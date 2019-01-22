@@ -7642,8 +7642,19 @@ Clay Mathematics Institute, Millenium Prize Problem.
 
 如果问题不存在的话，答案也不存在。
 
-真相就是中国在这个世界依旧是：亚洲病夫。病毒就是共产党，
-金字塔就是培养皿，让病毒大量生长。
+言论自由并不是一种理想主义者的无聊追求。只有自由的语言才是真
+实的，记录历史需要真实的语言，研究科学需要真实的语言，维护道德也需
+要真实的语言。金字塔下真实的语言被镇压，那么道德沦丧、历史丢失就是无
+法回避的现实。
+
+历史说明了这个世界是一个迷宫，而谎言就是迷宫中最可怕的黑雾。
+
+黑雾中的真相就是中国在这个世界依旧是：亚洲病夫。
+病毒是共产党，金字塔就是培养皿，让病毒大量生长。
+然而，只要言论自由被金字塔镇压，不论什么人，什么党，什么伟大思想和
+社会理想都将成为病毒。
+
+言论自由是最重要的公有财产。此时，请问猩猩进化了吗？
 
 GDP数值迅速上升，平静的生活足以珍惜。
 就算历史还有未解的问题，希望它们就像巨大的鲸鱼一样，
@@ -8498,7 +8509,7 @@ But it turned into chaos when I want to simplify it.
 Title: a grain of sand, cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.95
+Version: 2.96
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
