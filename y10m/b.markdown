@@ -7611,10 +7611,10 @@ Clay Mathematics Institute, Millenium Prize Problem.
 中国人缺的不是财富，是自由的中文。
 
 温奴带着小女孩走过一个集市，她买了一串糖葫芦，继续唠叨： 你可以不
-使用人类的语言，但是，你仍然可以表达人类的思想，你可以不说一句话
-。小女孩向她举起咬掉了一口的糖葫芦，开心的说：我门牙掉了也可以咬
-糖葫芦。温奴笑着揉揉女孩的脑袋继续走远了，这个女孩好像还是那个
-女孩， 换牙了。
+使用人类的语言，但是，你仍然可以表达人类的思想，你可以不说一句话，
+但是你仍然可以讲故事。小女孩举起咬掉了一口的糖葫芦，开心的说：奶奶！ 
+我门牙掉了也可以咬糖葫芦。温奴笑着揉揉女孩的脑袋继续走远了，这
+个女孩好像还是那个女孩， 换牙了。
 
 8月，bitcoin 域名被注册。bitcoin 是采用数字加密技术的网络货币，
 实现技术的是开源代码。理论上，这是不受国家
@@ -8599,7 +8599,7 @@ But it turned into chaos when I want to simplify it.
 Title: a grain of sand, cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 2.98
+Version: 2.99
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
