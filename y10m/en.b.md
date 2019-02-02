@@ -18,33 +18,37 @@ Version: 0.01
        by William Blake
 
 
+English is not my native language, but I can still feel the
+beauty in his writing.
 
-We can have a whole world in a grain of sand,
-and put it in our palm of hand.
-There are mountains and forests, grass lands and deserts,
-there are winding rivers flow into oceans, 
-stars shinning in the dark blue,
-eyes see it from earth.
-There are flowers in spring, leaves drop in autom.
+The world should be a real world, there should be mountains
+and rivers, there should be forests and deserts, ice and
+snows. There should be birds flying and fish swimming,
+and there should be villages and people live in there.
 
-In the grain of sand, there were stories occurred long long
-before. And stories yet happened that will happen long long
+In the grain of sand, there are plenty of stories happened long long
+ago. And stories yet to happen that will happen long long
 after, in the grain of sand.
 
 Where is the grain of sand come from?
 
-It starts getting explained in physics, physicists
-accumulated not enough facts until our humanbeings start to
-fight the world wars. Until then scholars tried to find
-something similar to the grain of sand when others found the
-world wars couldn't break the world.  But what physicists
-found out till now is very close to the old idea of God
-creat the world.
+I think the big bang is kind of explain, and I know I am
+stupid to think this way, the big bang is not start from a
+grain of sand, although they both start from very small
+thing. At first of big bang, it's far smaller then the grain
+of sand, the size should be under Planck length, it's 
+10(to the power of -35) meter, it means a billion of billion
+of it will not get the length of a meter.
+
 
 The beginning of our world is the big bang before 13.7
 billion years.
 
-When the whole universe was as small as a grain of sand.
+But we can not see the big bang, not only because it's so
+small but also because there was no light when it happened.
+
+aa
+
 But inside the sand there was no concepts of big or small.
 
 We are going to follow the events possibly happened during
