@@ -7231,8 +7231,12 @@ Linus Torvalds 尝试将他的个人项目发布，后来成为开
 在人口冲击前，只有保护人性价值，才可能得到上帝的宽
 恕。创造力是上帝给予人类的赐福，人类必须守住人性。
 
-人类的创造力可能和人性有更直接的关系，
-真正的创造力好像更多的出现在自由度更高的国家。
+创造力可能和人性直接相关。
+
+一方面，自由的思想产生创造力，言论的自由带来思想的自由。相反，为
+了强大或者为了财富去压榨创造力，将一群没有自由语言的人口赶去创造
+的方向，结果常常是大量抄袭和欺瞒。另一方面，脱离人性的创造力与人
+何益？
 
 1992年，当时俄罗斯联邦官员公布了一份资料，
 显示在前苏联，1917年-1991年间，超过500万人成为政治犯
@@ -8965,7 +8969,7 @@ But it turned into chaos when I want to simplify it.
 Title: a grain of sand, cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 3.105
+Version: 3.106
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
