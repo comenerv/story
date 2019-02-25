@@ -3723,11 +3723,14 @@ The Gospel of Matthew。后来由教会整理成为经文，
 英文地名是：Constantinople，这就是以前的拜占庭，
 也是现在土耳其的伊斯坦布尔，Istanbul。
 
-君士坦丁大帝在晚年归顺了基督教。他是第一位加入基督
-宗教的罗马皇帝，在公元313年与李锡尼共同颁布《米兰
-敕令》（Edictum Mediolanense），承认在帝国内部所有
-宗教信仰的自由。这是欧洲史上一件重要的事情，信仰不
-受统治者金字塔的镇压，这样的信仰才能作为最后的庇护。
+君士坦丁大帝在晚年归顺了基督教。他是第一位加入基督教的罗马皇帝，
+在公元313年他与李锡尼共同颁布《米兰敕令》（Edictum Mediolanense）
+，承认在帝国内所有宗教信仰的自由。这是欧洲史上一件重要的事情，
+却和教皇没有什么关系，当时可能没有教皇。君士坦丁大帝找到了后来教皇
+们的信仰，这样的信仰将作为最后的庇护。
+
+后来古罗马也走向世袭皇权的道路，可是教会的位置分散了集中化的权力，
+成为欧亚大陆的两端走向不同方向的一个原因。
 
 这个时候，中国在晋朝，晋武帝司马炎把曹操的后代搞下
 去之后，司马炎的儿子是晋惠帝司马衷，惠帝有点傻，
@@ -8977,7 +8980,7 @@ But it turned into chaos when I want to simplify it.
 Title: a grain of sand, cn 13.7 billion years 
 Author: Andrew
 Date: 2017(8)
-Version: 3.111
+Version: 3.112
 
 <!-- 
  vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
