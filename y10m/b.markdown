@@ -6178,6 +6178,8 @@ GDP计算国家财富的方法， GDP就是金字塔内每年的财富总量， 
 饥荒，文化大革命。三五年一个运动，如果寻找量化目标，
 那就是每次搞死1%左右。 新中国屠人无数，史无前例。
 
+中国共产党成为人类史上杀人最多的一个党。
+
 从此地主绝不是一个好职业，死亡率百分百。杀地主才是好职业，
 斗地主就是一种好游戏了。
 
@@ -7675,10 +7677,13 @@ Clay Mathematics Institute, Millenium Prize Problem.
     https://en.wikipedia.org/wiki/Great_Firewall#Blocking_methods
     https://en.wikipedia.org/wiki/Internet_censorship_in_China
 
-自由资讯只能用翻墙和钻狗洞的方法出入，建设和维持这一堵高墙的技术和行政人
+自由资讯只能用翻墙的方法出入，建设和维持这一堵高墙的技术和行政人
 员很快超过百万人，他们谋生的方法实际上就是为魔鬼服务。而从技术上拆
 除这堵鬼墙需要针对隔离技术在中国境外部署相应的反制技术，
 可惜的是，并没有谁有义务为中国人支付自由资讯的成本。
+
+翻墙是针对长城防火墙的网络词汇，其实钻洞才是更专业的，
+tunneling， 像钻狗洞一样，用加密形成的隧道提供数据传输。
 
 中国就像是一个病人在输液，
 自由资讯通过细小的输液管一滴一滴的悄悄注入。
@@ -8921,7 +8926,7 @@ Yes for yes, no for no, 是是非非，如此而已。
 简化! make it short, make it simple!
 There are wrong ideas and conclusions, 
 try to remove my thoughts and keep only facts.
-But it turned into chaos when I want to simplify it.
+And it get dark color, you must do something about it.
 2017 oct20, 2018 Oct 20, 2019 jan02
 
 [Source](https://github.com/goodagood/story/blob/master/y10m/b.markdown)
