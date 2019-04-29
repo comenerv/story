@@ -7960,7 +7960,7 @@ tunneling， 像钻狗洞一样，用加密形成的隧道提供数据传输。
 # 2011
 ### 叙利亚内战, 难民，本拉登， 定义强大，
 ### 微信QQ，胡锦涛， 周永康，摄像头, 猪和人，钓鱼岛， ISIS，
-### 普京，雾霾， 引力波， 天生工蚁， 最大质数，台湾，
+### 普京，雾霾， 引力波， 天生工蚁， 最大质数，台湾军力，
 {{{1
 
 
@@ -8266,9 +8266,11 @@ google， 来自美国苹果公司的iphone其实在中国生产，在台湾人�
 奇迹没有什么区别，也许海峡双方都并没有决战的决心，更为功利的好方法
 是将海峡对面做为自己政治游戏的伙伴演一场唱杀双赢的好戏。
 
-如果真的有决战的心态，在巨大的军费对比下，尽快给予平民持枪的权
-利可能提供更真实的安全保障，但是政治上这不太可能发生，禁枪者天生拥
-有政治正确的立场。
+对手巨大的军费会将防御时间的单位压缩，从年、月、周、日，直到小时，
+当军事沦陷台湾的时间变为小时，台湾的现状将成为平行空间中的一个 脱
+离现实的位面。 如果真的有决战的心态，在巨大的军费对比下，尽快给予
+平民持枪的权利可能提供更真实的安全保障，但是政治上这不太可能发生，
+禁枪者天生拥有政治正确的立场。
 
 就算是国民党逃到台湾之后，大陆政治运动中受迫害的人数也只是少数。以
 5%做参考的话，任何社会都有这个比例的失败者，所以就算是大陆突然攻陷
@@ -8947,14 +8949,14 @@ Yes for yes, no for no, 是是非非，如此而已。
 简化! make it short, make it simple!
 There are wrong ideas and conclusions, 
 try to remove my thoughts and keep only facts.
-And it get dark color, you must do something about it.
+And it gets dark color, you must do something about it.
 2017 oct20, 2018 Oct 20, 2019 jan02, 2019 mar
 
 
 [Source](https://github.com/goodagood/story/blob/master/y10m/b.markdown)
 
 Title: a grain of sand
-Author: Andrew
+Author: Andrew, 安竹
 Version: 3.14063
 
 
