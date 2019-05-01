@@ -8906,7 +8906,7 @@ Yes for yes, no for no, 是是非非，如此而已。
 向你祝福， 愿你有一个灿烂的前程，愿你有情人终成眷属，愿你在尘世获
 的幸福...  
 
-未来不可知，在此向猩猩们告别。
+未来不可知，在此也向猩猩们告别，虽然我们也未能洞察它的意识。
 
 可是温奴又讲了一个故事。
 
@@ -8981,7 +8981,7 @@ And it gets dark color, you must do something about it.
 
 Title: a grain of sand
 Author: Andrew, 安竹
-Version: 3.14064
+Version: 3.14066
 
 
 <!-- 
