@@ -8,8 +8,8 @@
 {{{1
 
 
-一沙一世界，这一个世界应该是真实的，就像目光一样真实，
-让人无法不感受到。
+一沙一世界，这一个世界应该是真实的，
+就像目光一样真实的存在，让人无法不感受到。
 
 这个世界里有山脉、森林、草原和沙漠，有羊群人群、村庄和城市，
 有漫长的河流蜿蜒流淌，支流汇入主流好像是树叶上相连的脉络，
@@ -8992,7 +8992,7 @@ And it gets dark color, you must do something about it.
 
 Title: a grain of sand
 Author: Andrew, 安竹
-Version: 3.14072
+Version: 3.14072b
 
 
 <!-- 
