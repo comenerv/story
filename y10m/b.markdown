@@ -8990,7 +8990,7 @@ Babel.
 There are wrong ideas and conclusions, 
 try to remove my thoughts and keep only facts.
 And it gets dark color, you must do something about it.
-2017 oct20, 2018 Oct 20, 2019 jan02, 2019 mar
+2017 oct20, 2018 Oct 20, 2019 jan02, 2019 mar. NO, may 19, 2019.
 
 
 [Source](https://github.com/goodagood/story/blob/master/y10m/b.markdown)
