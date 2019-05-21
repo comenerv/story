@@ -7478,6 +7478,16 @@ Clay Mathematics Institute, Millenium Prize Problem.
 军死刑操作手册，绞刑和吊死的差距是蛮大的，正确的执刑方法让受死者瞬间
 失去意识。合适的下落距离既不让他在绞索上挣扎，也不让他的头部被扯断。
 
+当没有标准的绞架时，绳子仍然有机会提供平静的死亡。多数作者都把这
+个问题写错了，因此害人无数。 将绳结置于左耳下方，压力作用在颈动脉
+上，在保持可以呼吸的同时令大脑失去血液和血氧，先让大脑关灯再吊起，
+痛苦的程度是有可能自己控制的。不论如何死，死亡都是没有尊严的，对任
+何人都一样，但是不应该因为对死亡的畏惧活成一只鬼。 提前研究死亡
+的方法有可能活得更有意义，参考：high/long drop vs low/short drop, 
+
+    > http://lostallhope.com/suicide-methods/hanging/short-drop/simple-suspension
+    > https://www.quora.com/Is-death-by-hanging-painful
+
 动荡的中东和混乱的非洲涌出大量难民，这些急切的找寻生路的人们， 也
 许也曾经有高贵的身份，或许也曾经被剥削镇压和享用， 现在一样被抛弃
 在世间，在一座座车站、机场和码头探听消息，拿着手机寻问，去到难民
@@ -8990,7 +9000,7 @@ Babel.
 There are wrong ideas and conclusions, 
 try to remove my thoughts and keep only facts.
 And it gets dark color, you must do something about it.
-2017 oct20, 2018 Oct 20, 2019 jan02, 2019 mar. NO, may 19, 2019.
+2017 oct20, 2018 Oct 20, 2019 jan02, 2019 mar. To stop, may 19, 2019.
 
 
 [Source](https://github.com/goodagood/story/blob/master/y10m/b.markdown)
