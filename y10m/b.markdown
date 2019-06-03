@@ -9074,8 +9074,8 @@ And it gets dark color, you must do something about it.
 [Source](https://github.com/goodagood/story/blob/master/y10m/b.markdown)
 
 Title: a grain of sand
-Author: Andrew, 安竹
-Version: 3.14079
+Author: Andrew, 安竹, 
+Version: 3.14080
 
 
 <!-- 
