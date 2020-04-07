@@ -207,15 +207,6 @@
 每个 parsec 约 3.26 亿光年。而光年并不是时间单位，一光年是我们看到光在一年
 中走过的距离。形成太阳系的分子云中央就是一个 Parsec 大小。
 
-
-    ## 距离单位:
-    
-      parsec, or PC: 可视为长度单位，~3.2616光年
-
-      AU: Astronomical Unit, 长度单位，149597870 KM， 即 149 个百万公里， 约等于地球公转半径平均值
-
-
-
 分子云中主要成份是氢，质量塌陷的中央点燃成为太阳。
 塌陷的原因可能是附近发生了若干次超新星爆发，
 其中一颗超新星的冲击波在分子云中造成了超密度区域，
@@ -232,6 +223,19 @@
 按照星云假说，
 恒星形成的过程中也产生了行星的种子。
 由尘埃在重力和电作用下形成。
+
+
+    vvvvvvvvvvvvvv 距离单位 vvvvvvvvvvvvvvvvvv
+
+      parsec, or PC: 
+          可视为长度单位，~3.2616光年
+
+      AU: Astronomical Unit,
+          长度单位，149597870 KM，
+          即 149 个百万公里，
+          约等于地球公转半径平均值
+
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 太阳星云坍缩的同时，星盘旋转，遵守角动量守恒。
@@ -14244,6 +14248,6 @@ Author: Andrew, 安竹,
 Version: 3.141059 
 
 <!-- 
- vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase ffs=unix:
+ vim: set nu tw=66 fdm=marker ft=markdown nowrap ignorecase:
  -->
 }}}
